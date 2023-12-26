@@ -56,6 +56,12 @@ Before running this script, ensure that you have the following:
 - Click the "SignUp" button to create a new account.
 - Success and error messages will be displayed based on the signup outcome.
 
+## Output
+
+![Screenshot (390)](https://github.com/DeepikaA2004/User-signup-system/assets/110418508/21c7a995-9214-40fc-9e0b-8bce62e46530)
+
+![Screenshot (391)](https://github.com/DeepikaA2004/User-signup-system/assets/110418508/76649602-0a9e-43ca-b3cc-22e37e30a23f)
+
 ## Contributing
 
 Feel free to contribute to the improvement of this user signup system. Create a fork, make your changes, and submit a pull request.
